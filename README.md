@@ -25,6 +25,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aysuh203/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Aysuh203/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Aysuh203/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -63,4 +64,12 @@ Solutions are added regularly as I solve problems on LeetCode.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aysuh203/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aysuh203/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
