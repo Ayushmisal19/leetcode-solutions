@@ -28,6 +28,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | [0014-longest-common-prefix](https://github.com/Aysuh203/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Aysuh203/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Aysuh203/leetcode-solutions/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
@@ -73,4 +74,8 @@ Solutions are added regularly as I solve problems on LeetCode.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aysuh203/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
