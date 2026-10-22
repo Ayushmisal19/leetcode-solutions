@@ -33,6 +33,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | [0704-binary-search](https://github.com/Aysuh203/leetcode-solutions/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Aysuh203/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1480-running-sum-of-1d-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,8 @@ Solutions are added regularly as I solve problems on LeetCode.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0136-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
