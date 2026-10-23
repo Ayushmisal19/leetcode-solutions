@@ -28,6 +28,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | [0014-longest-common-prefix](https://github.com/Aysuh203/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Aysuh203/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aysuh203/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Aysuh203/leetcode-solutions/tree/master/0704-binary-search) |
@@ -83,4 +84,8 @@ Solutions are added regularly as I solve problems on LeetCode.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aysuh203/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
