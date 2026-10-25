@@ -40,6 +40,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/Aysuh203/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aysuh203/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Aysuh203/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aysuh203/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Aysuh203/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0567-permutation-in-string](https://github.com/Aysuh203/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -94,4 +96,9 @@ Solutions are added regularly as I solve problems on LeetCode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aysuh203/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Aysuh203/leetcode-solutions/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Aysuh203/leetcode-solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
