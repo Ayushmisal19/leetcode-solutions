@@ -31,6 +31,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aysuh203/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0283-move-zeroes](https://github.com/Aysuh203/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aysuh203/leetcode-solutions/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Aysuh203/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -101,6 +102,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Aysuh203/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Aysuh203/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Simulation
 |  |
