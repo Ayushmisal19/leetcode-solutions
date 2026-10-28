@@ -72,6 +72,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | ------- |
 | [0009-palindrome-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/Aysuh203/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/Aysuh203/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
 | ------- |
