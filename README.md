@@ -31,6 +31,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aysuh203/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Aysuh203/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aysuh203/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aysuh203/leetcode-solutions/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
@@ -42,6 +43,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/Aysuh203/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aysuh203/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Aysuh203/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/Aysuh203/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
@@ -50,6 +52,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Aysuh203/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
