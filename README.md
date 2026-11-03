@@ -37,6 +37,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Aysuh203/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Aysuh203/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aysuh203/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Aysuh203/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
