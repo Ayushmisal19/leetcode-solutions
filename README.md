@@ -32,6 +32,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | [0136-single-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Aysuh203/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aysuh203/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aysuh203/leetcode-solutions/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
@@ -46,6 +47,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aysuh203/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Aysuh203/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aysuh203/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/Aysuh203/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
@@ -56,6 +58,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aysuh203/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aysuh203/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0268-missing-number) |
 | [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -67,6 +70,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | [0033-search-in-rotated-sorted-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Aysuh203/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Aysuh203/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aysuh203/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Matrix
@@ -78,6 +82,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/Aysuh203/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Aysuh203/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 ## String
@@ -96,6 +101,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
