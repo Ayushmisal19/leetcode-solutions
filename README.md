@@ -32,6 +32,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aysuh203/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Aysuh203/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aysuh203/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aysuh203/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0268-missing-number) |
@@ -47,6 +48,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/Aysuh203/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aysuh203/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Aysuh203/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aysuh203/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aysuh203/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Aysuh203/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -60,6 +62,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aysuh203/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aysuh203/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aysuh203/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0268-missing-number) |
@@ -133,4 +136,16 @@ Solutions are added regularly as I solve problems on LeetCode.
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aysuh203/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aysuh203/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aysuh203/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
