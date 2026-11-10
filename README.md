@@ -151,4 +151,12 @@ Solutions are added regularly as I solve problems on LeetCode.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aysuh203/leetcode-solutions/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Aysuh203/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Aysuh203/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
