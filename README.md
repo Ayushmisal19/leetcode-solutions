@@ -38,6 +38,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | [0219-contains-duplicate-ii](https://github.com/Aysuh203/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aysuh203/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Aysuh203/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Aysuh203/leetcode-solutions/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Aysuh203/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -55,6 +56,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | [0219-contains-duplicate-ii](https://github.com/Aysuh203/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Aysuh203/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Aysuh203/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aysuh203/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aysuh203/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -68,6 +70,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | [0217-contains-duplicate](https://github.com/Aysuh203/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aysuh203/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Aysuh203/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0853-car-fleet](https://github.com/Aysuh203/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -81,6 +84,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | [0074-search-a-2d-matrix](https://github.com/Aysuh203/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aysuh203/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Aysuh203/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Aysuh203/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Aysuh203/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aysuh203/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Matrix
@@ -137,6 +141,7 @@ Solutions are added regularly as I solve problems on LeetCode.
 | [0027-remove-element](https://github.com/Aysuh203/leetcode-solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Aysuh203/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aysuh203/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Aysuh203/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Aysuh203/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Simulation
 |  |
